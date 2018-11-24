@@ -1275,6 +1275,8 @@ public ListNode Merge(ListNode list1, ListNode list2) {
 
 <div align="center"> <img src="../pics//4583e24f-424b-4d50-8a14-2c38a1827d4a.png" width="500"/> </div><br>
 
+输入两棵二叉树A，B，判断B是不是A的子结构。（ps：我们约定空树不是任意一个树的子结构）
+
 ## 解题思路
 
 ```java
